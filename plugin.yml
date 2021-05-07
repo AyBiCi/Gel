@@ -1,0 +1,9 @@
+name: Gel
+main: mainGel.GelMain
+version: 6.6.6
+api-version: 1.15
+author: wuza8
+commands:
+    gel:
+        description: Main gel command.
+        usage: /gel help
